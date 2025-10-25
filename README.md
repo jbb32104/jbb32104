@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbb32104&label=Profile%20views&color=0e75b6&style=flat" alt="jbb32104" /> </p>
 
-- 🔭 I’m currently working on **A Full Stack Mobile App**
+- 🔭 I’m currently working on **A Verilog Single Cycle Computer**
 
-- 🌱 I’m currently learning **MERN, PERN, and PyTorch Applications**
+- 🌱 I’m currently learning **ML Regression Analysis**
 
 - 💬 Ask me about **ML and REST APIs**
 
 - 📫 How to reach me **jbb32104@uga.edu**
 
-- ⚡ Fun fact **I can bench 300**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
