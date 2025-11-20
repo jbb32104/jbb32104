@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jackson Barlow</h1>
-<h3 align="center">A student programmer at the University of Georgia</h3>
+<h1 align="center">I'm Jackson Barlow</h1>
+<h3 align="center">Engineering Student @ The University of Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbb32104&label=Profile%20views&color=0e75b6&style=flat" alt="jbb32104" /> </p>
 
